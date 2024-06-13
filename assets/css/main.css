@@ -1,0 +1,11 @@
+html,
+body {
+    font-family: 'Kanit', sans-serif;
+}
+
+.color__main {
+    color: #2D3956;
+}
+.bg__main {
+    background-color: #2D3956;
+}
